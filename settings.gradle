@@ -1,0 +1,9 @@
+include ':app', ':library-demonstrate'
+
+
+//include ':app',':library-demonstrate',':libraries:SlidingMenu'
+
+
+
+//include ':app',':library-demonstrate',':libraries:SlidingMenu/library'
+
